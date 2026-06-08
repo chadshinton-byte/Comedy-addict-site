@@ -2,7 +2,7 @@
 # Static site — no build step needed
 
 [build]
-publish = "."
+publish = "website"
 
 [[redirects]]
 from = "/chuckle.html"
